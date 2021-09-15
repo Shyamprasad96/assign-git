@@ -1,0 +1,4 @@
+1.A gitignore file specifies intentionally untracked files that git should ignore.It is a text file placed in your git repository.For java, it includes .class,.log,.ctxt,.jar,.war these type of extensions are used in java.
+2.It is nothing but to update the HEAD pointer in a way the new value is direct descendent of before value.
+3.Branches allow every developer to branch out from original code base and isolate from other.it also helps easily merge versions and software management to maintain stability.
+4.we has as many remotes as we want.The number of private or public repo is now unlimited to use.But we can only have one remote named of ‘origin’.
